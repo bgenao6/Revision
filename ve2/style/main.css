@@ -1,0 +1,101 @@
+body {
+  max-width:1000px;
+  margin-left:auto;
+  margin-right:auto;
+  font-family:"Myriad Pro";
+}
+h1,h2,h3,h4{
+	color:DodgerBlue;
+}
+#allwraper{
+	overflow:hidden;
+}
+#firsthaft{
+	float:left;
+	width:450px;
+	max-width:450px;
+}
+section img{
+	max-width:350px;
+
+}
+#secondhaft{
+	float:left;
+	width:450px;
+	margin-left:50px;
+	max-width:450px;
+	
+}
+.sections{
+	width:450px;
+	overflow:hidden;
+}
+header{
+	text-align:center;
+}
+header h1,header h2,header h3{
+	color:black;
+}
+header h1{
+	font-weight:normal;
+}
+header h2{
+	font-weight:900;
+}
+header img{
+	width:450px;
+	height:auto;
+}
+/*.images{
+	float:left;
+	width:160px;
+	max-width:160px;
+}
+*/
+.sections img {
+	width:100%;
+}
+.flexem p:first-child{
+	width:120px;
+	height:auto;
+	float:left;
+	
+}
+.flexem p:nth-of-type(2){
+	margin-top:62px;
+	float:left;
+	width:150px;
+}
+.sections h2{
+	margin-top:62px;
+	float:left;
+	width:160px;
+	text-align:center;
+}
+.flexem{
+	overflow:hidden;
+}
+/*.flexem p{
+	width:150px;
+	float:left;
+	height:150px;
+}*/
+.sections ul{
+	padding-left:0;
+}
+.sections li{
+	list-style:none;
+}
+#Adress p{
+	float:left;
+    text-align:center;
+	margin-bottom:22px;
+	margin-top:22px;
+	margin-left:10px;
+}
+#Adress h3{
+	float:left;
+}
+#Adress div{
+	overflow:hidden;
+}
